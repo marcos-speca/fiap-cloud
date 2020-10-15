@@ -7,14 +7,14 @@ Um aplicação Python bem simples, gera um id randomico de 1 a 100, conecta no M
 ### Componentes
 
 ## Banco MySQL AWS RDS
-	dbmovies.cthpl6d1wkbm.us-east-1.rds.amazonaws.com:3306
-	dbmovies
+ dbmovies.cthpl6d1wkbm.us-east-1.rds.amazonaws.com:3306
+ dbmovies
 
 ## Aplicação App ElasticBeanstalk
-	[Aplicação](http://fiaptrabalhocloud-env.eba-urmfkprc.us-east-1.elasticbeanstalk.com/)
+ [Aplicação](http://fiaptrabalhocloud-env.eba-urmfkprc.us-east-1.elasticbeanstalk.com/)
 
 
 ## Codepipeline
-Não foi possível incluir no code-pipeline pois houve um erro de permissão devido a conta *student*
+ Não foi possível incluir no code-pipeline pois houve um erro de permissão devido a conta *student*
 	
 
