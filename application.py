@@ -6,10 +6,10 @@ from mysql import connector
 from flask import Flask
 from random import randint
 
-app = Flask(__name__)
+application = Flask(__name__)
 
 
-@app.route("/")
+@application.route("/")
 def index():
     
     #Conexão com o BD MySQL na Nuvem
@@ -30,6 +30,6 @@ def index():
     
 
 if __name__ == '__main__':
-    app.run()
+    application.run()
 
 
