@@ -25,7 +25,13 @@ def index():
     cursor.close()
     cnx.close()
     
-    page = "<h1>" + row[1] + "</h1><br>" + row[2]
+    page = ("<html><title>49BDT Fiap Trabalho Cloud</title><body align=center>" + 
+            "<br><br><br><br><br><br><br><br>" +
+            "<h1>" + row[1] + 
+            "</h1><br>" + 
+            row[2] + 
+            "</body></html>")
+
     return page
     
 
