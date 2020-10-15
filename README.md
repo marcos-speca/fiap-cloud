@@ -11,7 +11,7 @@ Um aplicação Python bem simples, gera um id randomico de 1 a 100, conecta no M
  dbmovies
 
 ## Aplicação App ElasticBeanstalk
- [Aplicação](http://fiaptrabalhocloud-env.eba-urmfkprc.us-east-1.elasticbeanstalk.com/)
+ http://fiaptrabalhocloud-env.eba-urmfkprc.us-east-1.elasticbeanstalk.com/
 
 
 ## Codepipeline
