@@ -26,10 +26,11 @@ def index():
     cnx.close()
     
     page = ("<html><title>49BDT Fiap Trabalho Cloud</title><body align=center>" + 
-            "<br><br><br><br><br><br><br><br>" +
+            "<br><br><br><br><br>" +
             "<h1>" + row[1] + 
             "</h1><br><h3><i>" + row[2] + "</i></h3>" +
-            "<br><br><button onClick='window.location.href=window.location.href'>Mais um!</button>"
+            "<br><br><button onClick='window.location.href=window.location.href'>Mais um!</button>" +
+            "<br> <br> <img src='https://fiap-trabalho-cloud.s3.amazonaws.com/giphy.gif' width='300' height='200'></img>"
             "</body></html>")
 
     return page
