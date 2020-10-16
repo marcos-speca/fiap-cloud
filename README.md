@@ -1,6 +1,13 @@
 # Trabalho Cloud Fiap 49BDT 
 Repositório para o Trabalho da Disciplina Cloud Computing, Curso Big Data da FIAP (Turma: 49BDT-2020)
 
+
+## Alunos do Grupo
+* Eder Manoel (RM 337581)
+* Luis Bannwart (RM 338120) 
+* Kelvin Ueno (RM 339266)
+* Marcos Speca (RM 337024)
+
 ## Componentes
 
 ### Aplicação Python no ElasticBeanstalk
